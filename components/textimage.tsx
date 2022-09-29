@@ -34,9 +34,9 @@ const Textimage = () => {
           <button className="flex mx-auto text-white bg-indigo-500 border-0 py-2 px-8 focus:outline-none hover:bg-indigo-600 rounded text-lg">Button</button>
         </div>
         <div className="p-2 w-full pt-8 mt-8 border-t border-gray-200 text-center">
-          <a className="text-indigo-500">smnibraz5@email@gmail.com</a>
-          <p className="leading-normal my-5">Foy'slake,
-            <br /> Chattogram
+          <a className="text-indigo-500">smnibraz5@gmail.com</a>
+          <p className="leading-normal my-5">Foy'slake,Chattogram
+            <br /> 
           </p>
           <span className="inline-flex">
             <a className="text-gray-500">
