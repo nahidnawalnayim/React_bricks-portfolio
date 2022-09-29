@@ -4,4 +4,7 @@ module.exports = {
     defaultLocale: 'en',
     localeDetection: false,
   },
+  env: {
+    customKey: 'my-value',
+  }
 }
